@@ -3,7 +3,7 @@ ImageComp is a simple and user-friendly Python application designed for compress
 
 Key Features:
 *   Compress JPEG and PNG
-*   Convert WebP
+*   It doubles as a WebP converter (This does not compress as WebP is technically more compressed than jpeg)
 *   Near-lossless compression for high-quality image preservation
 
 # Installation
