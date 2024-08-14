@@ -1,0 +1,2 @@
+# ImageComp
+self explanatory
