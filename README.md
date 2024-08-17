@@ -14,5 +14,5 @@ Download the python script and bat, run the "start.bat"
 # Credits
 This project was developed by Kiley W. For more information, visit [this link](https://allmylinks.com/dreamykiley).
 
-# License:
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Buy Me a Gift!
+If you'd like to, you can [buy me a gift!](https://throne.com/dreamykiley). Donations are completely optional and are not connected to the development or functionality of my personal projects. Your support is appreciated, but please feel no obligation.
