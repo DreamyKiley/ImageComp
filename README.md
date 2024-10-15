@@ -15,4 +15,4 @@ Download the python script and bat, run the "start.bat"
 This project was developed by Kiley W. For more information, visit [this link](https://allmylinks.com/dreamykiley).
 
 ## Buy Me a Gift!
-If you'd like to, you can [buy me a gift!](https://throne.com/dreamykiley). Donations are completely optional and are not connected to the development or functionality of my personal projects. Your support is appreciated, but please feel no obligation.
+If you'd like to, you can [buy me a gift!](https://throne.com/dreamykiley). Gifts are completely optional and are not connected to the development or functionality of my personal projects. Your support is appreciated, but please feel no obligation.
